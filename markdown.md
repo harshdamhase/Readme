@@ -10,15 +10,21 @@
 <!--italic  -->
 *This text* is etalic 
 
-_This text_ is etalic 
+_This text_ is etalic
+
+
 
 <!--strong-->
 **This text** is italic
 
 __This text__ is italic
 
+
+
 <!--strike through-->
 ~~this text~~ is strike through
+
+
 
 <!--horizontal rule-->
 ---
@@ -27,12 +33,15 @@ ____
 <!-- blockquote-->
 > this is quote
 
+
+
 <!-- inks -->
 [Traversy Media](http://www.traverymeia.com)
 
 
 [Trversy Media](http://www.traverymedia.com "Traversy Media")
  
+
  <!--&&-->
  * Item1
  * Item2
@@ -49,9 +58,9 @@ ____
   <!--Inline code blocl-->
   `<p>This is para</p>`
 
-  <!--Images-->
+  <!-- Images
    ![Markdown Logo]
-  (https://markdown.com/rtc.jpg) 
+  (https://markdown.md/rtc.jpg)  -->
 
 
   <!--Github marhdown-->
